@@ -1,5 +1,5 @@
 package org.fragile.service;
-import config.JwtProvider;
+import org.fragile.config.JwtProvider;
 import org.fragile.entities.User;
 import org.fragile.helpers.Validation;
 import org.junit.jupiter.api.BeforeEach;

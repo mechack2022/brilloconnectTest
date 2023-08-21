@@ -2,6 +2,7 @@ package config;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+import org.fragile.config.JwtProvider;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
